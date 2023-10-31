@@ -73,7 +73,9 @@ input{
 
 .hero-section{
     display: flex;
-    align-items: center;
+    align-items: center; 
+    justify-content: center;
+
 }
 
 .hero-left-section h1{
